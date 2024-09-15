@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Seo Min Woo and looking forward to this class very much.
 <!--
 **bbadambbadam/bbadambbadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
